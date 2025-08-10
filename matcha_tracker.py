@@ -8,6 +8,7 @@ import smtplib   # To send emails
 import time      # To pause the script between checks
 from bs4 import BeautifulSoup # To parse the HTML of the website
 from email.mime.text import MIMEText # To format the email
+import os
 
 # --- 2. Configuration ---
 # IMPORTANT: Fill in these details for the script to work.
