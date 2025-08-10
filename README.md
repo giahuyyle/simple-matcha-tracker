@@ -1,3 +1,5 @@
+# Simple Matcha Tracker
+
 Matcha Product Availability Tracker
 This project contains a Python script that automatically monitors a product webpage to check for stock availability. When the product comes back in stock, the script sends an email notification. The entire process is automated to run on a schedule using GitHub Actions.
 
