@@ -31,7 +31,7 @@ SMTP_PORT = 587
 # os.environ.get to extract Github secrets
 SENDER_EMAIL = os.environ.get("SENDER_EMAIL")
 SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD")
-RECIPIENT_EMAIL = SENDER_PASSWORD = os.environ.get("RECIPIENT_EMAIL")
+RECIPIENT_EMAIL = os.environ.get("RECIPIENT_EMAIL")
 
 # --- 3. The Stock Checking Function ---
 def check_stock():
