@@ -125,7 +125,7 @@ def send_notification_email(product):
 
 # --- 6. Main execution block ---
 if __name__ == "__main__":
-    logging.info("--- CHECK START ---")
+    logging.info("\n--- CHECK START ---")
 
     for product in PRODUCTS_TO_TRACK:
         status = check_stock(product)
@@ -137,4 +137,4 @@ if __name__ == "__main__":
         if "In Stock" in status:
             send_notification_email(product)
 
-    logging.info("--- CHECK END ---")
+    logging.info("--- CHECK END ---\n")
