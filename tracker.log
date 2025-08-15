@@ -1,0 +1,22 @@
+2025-08-15 18:08:19,631 - --- CHECK START ---
+2025-08-15 18:08:20,774 - Status element not found for Ippodo - Ikuyo-no-mukashi (Test Product). Assuming it's in stock.
+2025-08-15 18:08:20,775 - name of product: Ippodo - Ikuyo-no-mukashi (Test Product)
+2025-08-15 18:08:20,775 - link: https://global.ippodo-tea.co.jp/collections/matcha/products/matcha111102
+2025-08-15 18:08:20,775 - status: In Stock (Element Not Found)
+2025-08-15 18:08:20,775 - Item 'Ippodo - Ikuyo-no-mukashi (Test Product)' is in stock! Preparing to send email notification...
+2025-08-15 18:08:24,340 - Email notification sent successfully!
+2025-08-15 18:08:24,554 - --- CHECK END ---
+2025-08-15 18:12:36,174 - --- CHECK START ---
+2025-08-15 18:12:36,436 - Status element not found for Ippodo - Ikuyo-no-mukashi (Test Product). Assuming it's in stock.
+2025-08-15 18:12:36,437 - name of product: Ippodo - Ikuyo-no-mukashi (Test Product)
+2025-08-15 18:12:36,437 - link: https://global.ippodo-tea.co.jp/collections/matcha/products/matcha111102
+2025-08-15 18:12:36,437 - status: In Stock (Element Not Found)
+2025-08-15 18:12:36,437 - Item 'Ippodo - Ikuyo-no-mukashi (Test Product)' is in stock! Preparing to send email notification...
+2025-08-15 18:12:39,956 - Email notification sent successfully!
+2025-08-15 18:12:41,128 - Status element not found for Marukyu Koyamaen - Yugen. Assuming it's in stock.
+2025-08-15 18:12:41,129 - name of product: Marukyu Koyamaen - Yugen
+2025-08-15 18:12:41,129 - link: https://www.marukyu-koyamaen.co.jp/english/shop/products/11a7040b5
+2025-08-15 18:12:41,129 - status: In Stock (Element Not Found)
+2025-08-15 18:12:41,129 - Item 'Marukyu Koyamaen - Yugen' is in stock! Preparing to send email notification...
+2025-08-15 18:12:44,102 - Email notification sent successfully!
+2025-08-15 18:12:44,321 - --- CHECK END ---
