@@ -20,3 +20,39 @@
 2025-08-15 18:12:41,129 - Item 'Marukyu Koyamaen - Yugen' is in stock! Preparing to send email notification...
 2025-08-15 18:12:44,102 - Email notification sent successfully!
 2025-08-15 18:12:44,321 - --- CHECK END ---
+2025-08-15 19:00:50,746 - 
+--- CHECK START ---
+2025-08-15 19:00:51,268 - Status element not found for Ippodo - Ikuyo-no-mukashi (Test Product). Assuming it's in stock.
+2025-08-15 19:00:51,268 - name of product: Ippodo - Ikuyo-no-mukashi (Test Product)
+2025-08-15 19:00:51,268 - link: https://global.ippodo-tea.co.jp/collections/matcha/products/matcha111102
+2025-08-15 19:00:51,268 - status: In Stock (Element Not Found)
+2025-08-15 19:00:51,268 - Item 'Ippodo - Ikuyo-no-mukashi (Test Product)' is in stock! Preparing to send email notification...
+2025-08-15 19:00:55,771 - Email notification sent successfully!
+2025-08-15 19:00:56,653 - Status element not found for Marukyu Koyamaen - Yugen. Assuming it's in stock.
+2025-08-15 19:00:56,654 - name of product: Marukyu Koyamaen - Yugen
+2025-08-15 19:00:56,654 - link: https://www.marukyu-koyamaen.co.jp/english/shop/products/11a7040b5
+2025-08-15 19:00:56,654 - status: In Stock (Element Not Found)
+2025-08-15 19:00:56,654 - Item 'Marukyu Koyamaen - Yugen' is in stock! Preparing to send email notification...
+2025-08-15 19:01:00,176 - Email notification sent successfully!
+2025-08-15 19:01:00,405 - --- CHECK END ---
+
+2025-08-15 19:01:10,486 - 
+--- CHECK START ---
+2025-08-15 19:01:11,119 - Status element not found for Ippodo - Ikuyo-no-mukashi (Test Product). Assuming it's in stock.
+2025-08-15 19:01:11,119 - 
+name of product: Ippodo - Ikuyo-no-mukashi (Test Product)
+2025-08-15 19:01:11,119 - link: https://global.ippodo-tea.co.jp/collections/matcha/products/matcha111102
+2025-08-15 19:01:11,119 - status: In Stock (Element Not Found)
+
+2025-08-15 19:01:11,119 - Item 'Ippodo - Ikuyo-no-mukashi (Test Product)' is in stock! Preparing to send email notification...
+2025-08-15 19:01:14,460 - Email notification sent successfully!
+2025-08-15 19:01:15,410 - Status element not found for Marukyu Koyamaen - Yugen. Assuming it's in stock.
+2025-08-15 19:01:15,410 - 
+name of product: Marukyu Koyamaen - Yugen
+2025-08-15 19:01:15,410 - link: https://www.marukyu-koyamaen.co.jp/english/shop/products/11a7040b5
+2025-08-15 19:01:15,410 - status: In Stock (Element Not Found)
+
+2025-08-15 19:01:15,410 - Item 'Marukyu Koyamaen - Yugen' is in stock! Preparing to send email notification...
+2025-08-15 19:01:20,481 - Email notification sent successfully!
+2025-08-15 19:01:20,698 - --- CHECK END ---
+
